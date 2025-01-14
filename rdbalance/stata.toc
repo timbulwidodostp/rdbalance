@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p rdbalance Covariate balance statistics with formatted table output in treatment effect analysis and RDD Use rdbalance With STATA 18
