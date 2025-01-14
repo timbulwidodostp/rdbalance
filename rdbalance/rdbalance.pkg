@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'rdbalance': Covariate balance statistics with formatted table output in treatment effect analysis and RDD Use rdbalance With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f rdbalance.ado
+f rdbalance.sthlp
